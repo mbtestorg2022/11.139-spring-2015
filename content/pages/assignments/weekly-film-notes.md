@@ -86,16 +86,123 @@ All men must eventually steal.
 Student Examples
 ----------------
 
-| _Metropolis_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis2) |
-| _Berlin: Symphony of a Great City_ | [Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_berlin) |
-| _The Crowd_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd2) |
-| _Modern Times_ | [Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_moderntimes) |
-| _Ladri di Biciclette (Bicycle Thieves)_ | [Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_bicyclethieve) |
-| _The Naked City_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity2) |
-| _West Side Story_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westsidestory), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westside2) |
-| _Play Time_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime2) |
-| _Midnight Cowboy_ | [Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_midnight) |
-| _Blade Runner_ | No Examples |
-| _Do the Right Thing_ | [Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright2) |
-| _London_ | [Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_london) |
-| _Night on Earth_ | No Examples
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Metropolis_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Berlin: Symphony of a Great City_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_berlin)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_The Crowd_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Modern Times_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_moderntimes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Ladri di Biciclette (Bicycle Thieves)_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_bicyclethieve)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_The Naked City_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_West Side Story_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westsidestory), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westside2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Play Time_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Midnight Cowboy_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_midnight)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Blade Runner_
+{{< tdclose >}}
+{{< tdopen >}}
+No Examples
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Do the Right Thing_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_London_
+{{< tdclose >}}
+{{< tdopen >}}
+[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_london)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Night on Earth_
+{{< tdclose >}}
+{{< tdopen >}}
+No Examples
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
