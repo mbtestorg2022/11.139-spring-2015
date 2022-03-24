@@ -58,9 +58,9 @@ Read an in-depth critical review of a film you've seen, ideally one related to t
 {{< tdopen >}}
 
 
-† Mumford, Lewis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What is a City?" (PDF)](https://ibis.geog.ubc.ca/~ewyly/u200/mumford) Architectural Record, 1937.
+† Mumford, Lewis. ["What is a City?" (PDF)](https://ibis.geog.ubc.ca/~ewyly/u200/mumford) Architectural Record, 1937.
 
-Jacobs, Allan B. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Looking at Cities." (PDF - 1.4MB)](https://placesjournal.org/assets/legacy/pdfs/looking-at-cities.pdf) _Places_ 1, no. 4 (1984).
+Jacobs, Allan B. ["Looking at Cities." (PDF - 1.4MB)](https://placesjournal.org/assets/legacy/pdfs/looking-at-cities.pdf) _Places_ 1, no. 4 (1984).
 
 Brodnax, Mary M. "Man a Machine: The Shift from Soul to Identity in Lang's Metropolis and Ruttmann's Berlin." Chapter 4 in _Peripheral Visions: The Hidden Stages of Weimar Cinema_. Edited by Kenneth S. Calhoon. Wayne State University Press, 2001, pp. 73–93. ISBN: 9780814329283. \[Preview with [Google Books](http://books.google.com/books?id=liIGkNCtszMC&pg=PA73=onepage)\]
 
